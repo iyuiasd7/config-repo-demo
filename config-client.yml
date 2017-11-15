@@ -1,2 +1,4 @@
 info:
   profile: default
+  ip: 10.0.1.130
+  port: 8080
